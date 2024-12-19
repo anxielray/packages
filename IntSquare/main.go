@@ -1,4 +1,4 @@
-package IntSquare
+package IntPow
 
 import "math"
 
