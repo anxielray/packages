@@ -1,3 +1,3 @@
-module https://github.com/anxielray/packages
+module github.com/anxielray/packages
 
 go 1.23
